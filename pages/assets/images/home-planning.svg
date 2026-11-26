@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">房屋貸款服務示意圖</title>
+  <desc id="desc">桌面上的房屋模型與財務規劃圖，表現購屋資金規劃情境。</desc>
+  <rect width="900" height="700" fill="#e7f0f1"/>
+  <path d="M0 526h900v174H0z" fill="#d8e1da"/>
+  <circle cx="704" cy="165" r="86" fill="#eee3ce"/>
+  <path d="M145 515h615v25H145z" fill="#102b46"/>
+  <path d="M192 540v42m521-42v42" stroke="#687b7b" stroke-width="12"/>
+  <path d="m300 386 142-123 142 123v131H300z" fill="#fbfaf7" stroke="#102b46" stroke-width="9" stroke-linejoin="round"/>
+  <path d="m273 393 169-148 169 148" fill="none" stroke="#c9a96b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M394 429a48 48 0 0 1 96 0v88h-96z" fill="#28708b"/>
+  <path d="M331 411h41v43h-41zm188 0h41v43h-41z" fill="#e7f0f1" stroke="#879982" stroke-width="5"/>
+  <path d="M352 411v43m-21-21h41m167-22v43m-21-21h41" stroke="#879982" stroke-width="4"/>
+  <path d="M372 551h140v12H372z" fill="#c9a96b"/>
+  <path d="M108 311h157v179H108z" fill="#fbfaf7" stroke="#b8c5bd" stroke-width="5"/>
+  <path d="M131 347h102m-102 28h68m-68 28h83" stroke="#879982" stroke-width="6" stroke-linecap="round"/>
+  <path d="m135 455 30-28 25 15 42-49" fill="none" stroke="#28708b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="232" cy="393" r="7" fill="#c9a96b"/>
+  <path d="M637 471c0-40 27-70 58-70s58 30 58 70" fill="#879982"/>
+  <path d="M680 474v66m-22-25 22-24 23 24" fill="none" stroke="#536f57" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 589h684" stroke="#b6c4bd" stroke-width="4"/>
+  <path d="M350 617h210" stroke="#c9a96b" stroke-width="4" stroke-linecap="round"/>
+</svg>

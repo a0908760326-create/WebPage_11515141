@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">存款服務示意圖</title>
+  <desc id="desc">一本打開的存摺、一疊硬幣與嫩芽，象徵日常管理和穩健累積。</desc>
+  <rect width="900" height="700" fill="#e7f0f1"/>
+  <circle cx="708" cy="165" r="94" fill="#eee3ce"/>
+  <path d="M0 536h900v164H0z" fill="#d7e1dc"/>
+  <path d="M147 489c35-30 98-43 168-23l130 45v106l-141-47c-62-20-116-13-157 11z" fill="#102b46"/>
+  <path d="M445 511l130-45c70-20 133-7 168 23v92c-41-24-95-31-157-11l-141 47z" fill="#28708b"/>
+  <path d="M445 511v106" stroke="#c9a96b" stroke-width="7"/>
+  <path d="M186 505c42-22 87-22 137-7l86 29v64l-97-31c-46-15-87-16-126 1z" fill="#f6f3eb"/>
+  <path d="M486 527l86-29c50-15 95-15 137 7v56c-39-17-80-16-126-1l-97 31z" fill="#f6f3eb"/>
+  <path d="M220 530h137m-137 24h103m197-24h137m-137 24h103" stroke="#c9a96b" stroke-width="5"/>
+  <g fill="#c9a96b" stroke="#a68853" stroke-width="4"><ellipse cx="680" cy="493" rx="72" ry="20"/><path d="M608 460c0-11 32-20 72-20s72 9 72 20v33c0 11-32 20-72 20s-72-9-72-20z"/><ellipse cx="680" cy="460" rx="72" ry="20"/><ellipse cx="680" cy="460" rx="45" ry="11" fill="none"/></g>
+  <g fill="#e2c98e" stroke="#a68853" stroke-width="4"><ellipse cx="744" cy="438" rx="57" ry="16"/><path d="M687 408c0-9 25-16 57-16s57 7 57 16v30c0 9-25 16-57 16s-57-7-57-16z"/><ellipse cx="744" cy="408" rx="57" ry="16"/></g>
+  <path d="M516 441c16-65 4-110-29-147m29 91c26-38 52-55 82-57m-82 24c-25-27-50-37-77-35" fill="none" stroke="#536f57" stroke-width="9" stroke-linecap="round"/>
+  <path d="M486 296c-31-37-67-35-81-11 17 30 47 39 81 11zm29 32c34-43 72-45 89-21-19 35-51 45-89 21zm-31-63c-3-43-28-63-53-57-4 35 14 57 53 57z" fill="#879982"/>
+  <path d="M80 604h735" stroke="#b6c4bd" stroke-width="4"/>
+  <path d="M173 637h92m395 0h101" stroke="#c9a96b" stroke-width="4" stroke-linecap="round"/>
+</svg>

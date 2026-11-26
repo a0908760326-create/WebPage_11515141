@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" role="img" aria-labelledby="title desc">
+  <title id="title">藍天銀行建築示意圖</title>
+  <desc id="desc">現代銀行入口與前方廣場，以深藍、白色和金色呈現。</desc>
+  <rect width="900" height="760" fill="#e7f0f1"/>
+  <path d="M0 520h900v240H0z" fill="#d5e0dc"/>
+  <path d="M0 584h900M0 652h900" stroke="#c2d0cb" stroke-width="3"/>
+  <path d="M93 512 450 198l357 314" fill="#c9a96b"/>
+  <path d="M130 509 450 229l320 280" fill="#fbfaf7"/>
+  <path d="M177 508V364l273-107 273 107v144" fill="#f1f0e9"/>
+  <path d="M197 369 450 276l253 93" fill="none" stroke="#102b46" stroke-width="10"/>
+  <path d="M214 390h472v18H214z" fill="#28708b"/>
+  <path d="M240 408v99m69-99v99m69-99v99m69-99v99m69-99v99m69-99v99m69-99v99" stroke="#c9a96b" stroke-width="5"/>
+  <path d="M161 511h578v24H161z" fill="#102b46"/>
+  <path d="M382 445a68 68 0 0 1 136 0v66H382z" fill="#28708b"/>
+  <path d="M450 445v66" stroke="#e7f0f1" stroke-width="4"/>
+  <rect x="427" y="462" width="46" height="18" rx="9" fill="#c9a96b"/>
+  <path d="M78 532h744" stroke="#879982" stroke-width="8"/>
+  <g fill="#879982"><circle cx="111" cy="470" r="24"/><circle cx="91" cy="492" r="29"/><circle cx="133" cy="497" r="26"/><circle cx="790" cy="463" r="27"/><circle cx="765" cy="493" r="30"/><circle cx="813" cy="498" r="25"/></g>
+  <path d="M112 508v65m676-65v65" stroke="#68553e" stroke-width="9"/>
+  <path d="M325 590h250" stroke="#c9a96b" stroke-width="5" stroke-dasharray="3 18"/>
+  <circle cx="699" cy="590" r="8" fill="#28708b"/>
+  <circle cx="224" cy="590" r="8" fill="#28708b"/>
+  <path d="M365 684h170" stroke="#aebdb6" stroke-width="4"/>
+</svg>
